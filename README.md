@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Hi there! I'm Ayşenur.<br>💻I am software engineering students.<br>👩‍💻I am currently learning Python, C#, C++ and HTML<br>💼I work as YetGen Python Education Leader. <br>📫You can reach me at aysenurcelik1224@gmail.com
+👋Hi there! I'm Ayşenur.<br>💻I am software engineering students. I am striving to become a Data Scientist.<br>👩‍💻I am currently learning Python, C++ and SQL <br>💼I work as YetGen Python Education Leader. <br>📫You can reach me at aysenurcelik1224@gmail.com
 
 
 ## 🌐 Socials:
